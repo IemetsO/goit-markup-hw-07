@@ -1,0 +1,109 @@
+.footer {
+    background-color: #2f303a;
+    padding-top: 60px;
+    padding-bottom: 60px;
+  }
+  
+  .container-footer {
+    display: flex;
+    align-items: baseline
+  }
+  
+  
+  .footer-right {
+    margin-left: 70px;
+  }
+  
+  .join {
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 1.14;
+    color: var(--primary-bg-color);
+    margin-bottom: 20px;
+    margin-top: 0px;
+  }
+  
+  
+  .link-footer {
+    background-color: rgba(255, 255, 255, 0.1);
+  }
+  
+  
+  .address {
+    display: block;
+    margin-top: 20px;
+    color: var(--primary-bg-color);
+    font-size: 14px;
+    line-height: 1.71;
+    font-style: normal;
+  }
+  
+  .accent.footer {
+    color: var(--primary-bg-color);
+  }
+  
+  .address.link {
+    display: block;
+    margin-top: 9px;
+    color: rgba(255, 255, 255, 0.6);
+    text-decoration: none;
+  }
+  
+  .footer-form {
+    margin-left: 93px;
+    align-self: right;
+  }
+  
+  .footer-form-title {
+    font-size: 14;
+    font-weight: 700;
+    line-height: 1, 14;
+    color: var(--primary-bg-color);
+    text-transform: uppercase;
+  }
+  
+  .footer-form-input {
+    width: 358px;
+    height: 50px;
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    background-color: inherit;
+    border-radius: 4px;
+    padding-left: 16px;
+    color: var(--primary-bg-color);
+  }
+  
+  .placeholder {
+    font-size: 16;
+    font-weight: 400;
+    line-height: 1.25;
+    color: rgba(255, 255, 255, 0.6);
+  }
+  
+  
+  .footer-form-button {
+    position: relative;
+    border-radius: 4px;
+    min-width: 200px;
+    min-height: 50px;
+    padding-right: 62px;
+    padding-left: 29px;
+    color: var(--primary-bg-color);
+    background-color: var(--accent-color);
+    cursor: pointer;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 1.87;
+    margin-left: 12px;
+  }
+  
+  .icon-send {
+    margin-left: 10px;
+    position: absolute;
+    top: 50%;
+    right: 28px;
+    transform: translateY(-50%);
+  }
+  
+  
+  
